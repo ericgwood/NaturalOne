@@ -94,7 +94,7 @@
     <property name="natural.ant.library.steplibs" value="SAGEW;1;SYSTEM;!;!" />
     <property name="natural.ant.server.environment" value="daea-7319" />
     <property name="natural.ant.server.usessl" value="NO" />
-    <property name="natural.ant.server.password" value="" />
+    <property name="natural.ant.server.password" value="mdRQ5nGWxpU=" />
     <property name="natural.ant.server.username" value="SAGEW" />
     <property name="natural.ant.project.steplib.nsv" value="" />
     <!-- ### ANT_DEPLOY_PROPERTIES_END ###   -->
