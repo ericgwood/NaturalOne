@@ -48,7 +48,7 @@
     <!-- Property logic: DO NOT EDIT NOR REMOVE -->
     <!-- ### ANT_DEPLOY_PROPERTIES_START ### -->
     <property environment="env"/>
-    <property name="natural.ant.server.parameters" value="profile=us137, slock=pre" />
+    <property name="natural.ant.server.parameters" value="profile=us137,slock=pre" />
     <property name="natural.ant.repository.password" value="" />
     <property name="natural.ant.project.password.encryption" value="YES" />
     <property name="natural.ant.deploy.create.sysobjh" value="NO" />
