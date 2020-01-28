@@ -62,7 +62,7 @@
     <property name="natural.ant.library.steplib.nsv" value="SAGEW;SYSTEM!;!" />
     <property name="natural.ant.source.all.types" value="YES" />
     <property name="natural.ant.deploy.upload.sysobjh" value="NO" />
-    <property name="natural.ant.repository.url" value="C:/Users/sagew/git/repository/.git" />
+    <property name="natural.ant.repository.url" value="https://github.com/ericgwood/NaturalOne" />
     <property name="natural.ant.repository.version" value="master" />
     <property name="natural.ant.reference.enable" value="NO" />
     <property name="natural.ant.source.type.selection" value="2736127" />
