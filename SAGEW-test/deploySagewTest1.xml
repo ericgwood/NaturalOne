@@ -75,7 +75,7 @@
     <property name="natural.ant.server.port" value="7319" />
     <property name="natural.ant.project.name" value="SAGEW-test" />
     <property name="natural.ant.server.secured.environment" value="YES" />
-    <property name="natural.ant.project.rootdir" value="..\" />
+    <property name="natural.ant.project.rootdir" value="../" />
     <property name="natural.ant.deploy.stow" value="NO" />
     <property name="natural.ant.deploy.history.log.level" value="0" />
     <property name="natural.ant.deploy.upload.sysobjh.library" value="WORKPLAN" />
