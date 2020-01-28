@@ -1,0 +1,13 @@
+DEFINE DATA LOCAL
+/* >Natural Source Header 000000
+/* :Mode S
+/* :CP
+/* <Natural Source Header
+1 #ACTION (A1)
+1 #MSG (A70)
+1 #TITLE1 (A40)
+1 #TITLE2 (A40)
+1 #PROGRAM (A8)
+1 #TIME (T)
+1 #VALID-ACTIONS (A12)
+END-DEFINE
