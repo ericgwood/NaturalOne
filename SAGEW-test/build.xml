@@ -12,7 +12,7 @@
       <!-- Run all the available unit tests from a folder -->
       <fileset dir="${test.dir}">
              </fileset>
-    </testsuite>
+   
     <!-- Let test fail if there was one failure during testing -->
     <fail if="is.unit.test.failure" status="1" />
   </target>
