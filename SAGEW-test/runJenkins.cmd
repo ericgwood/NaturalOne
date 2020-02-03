@@ -25,7 +25,7 @@ IF "%eclipseworkspace%"=="" (
 )
 
 IF "%buildfile%"=="" (
-  set buildfile=C:\Program Files (x86)\Jenkins\workspace\SAGEW_UNIT_TEST\SAGEW-test\buildJenkins.xml
+  set buildfile="C:\Program Files (x86)\Jenkins\workspace\SAGEW_UNIT_TEST\SAGEW-test\buildJenkins.xml"
 )
 
 :: The Ant listener can be used when a Junit-like report format of the Testing output is required.
