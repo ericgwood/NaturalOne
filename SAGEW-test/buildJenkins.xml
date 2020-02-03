@@ -7,7 +7,7 @@
   </target>
   <target depends="init" name="default">
     <!-- Change logtests to "true" if you want test history to be saved -->
-    <testsuite failureProperty="is.unit.test.failure" haltOnFailure="false" logtests="true" name="tests" setProjectSteplibs="true">
+    <testsuite failureProperty="is.unit.test.failure" haltOnFailure="false" logtests="false" name="tests" setProjectSteplibs="true">
       <connection EnvironmentName="${broker.environmentID}" />
       <!-- Run all the available unit tests from a folder -->
       <fileset dir="${test.dir}">
