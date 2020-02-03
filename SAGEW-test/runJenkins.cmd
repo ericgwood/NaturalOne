@@ -37,7 +37,7 @@ set listener=
 :: parameters needed for debugging. This is copied from process explorer and the debug version on Eclipse.
 set additional=
 
-"%java%" -Xms128m -Xmx1024m -XX:MaxPermSize=256m -jar "%startup%" -data "%eclipseworkspace%" -noupdate -application org.eclipse.ant.core.antRunner %listener% -file "%buildfile%" %additional%
+"%java%" -Xms128m -Xmx1024m -XX:MaxPermSize=256m -jar "%startup%" -data "%eclipseworkspace%" -noupdate -application org.eclipse.ant.core.antRunner %listener% -file %buildfile% %additional%
 
 ENDLOCAL
 
