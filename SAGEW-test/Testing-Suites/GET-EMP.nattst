@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_222" class="java.beans.XMLDecoder">
+ <object class="com.softwareag.naturalone.gen.testing.eclipse.external.ui.editors.unittester.natural.model.NaturalTest" id="NaturalTest0">
+  <void property="connection">
+   <void property="ID">
+    <string>10.20.74.31:23141</string>
+   </void>
+   <void property="RPCName">
+    <string>Natural RPC Server MAINFRAME</string>
+   </void>
+   <void property="encryptedPassword">
+    <string>KHFZWGWCLVR0SeOU7fuZVg</string>
+   </void>
+   <void property="encryptedRpcPassword">
+    <string>KHFZWGWCLVR0SeOU7fuZVg</string>
+   </void>
+   <void property="rpcUserID">
+    <string>SAGEW</string>
+   </void>
+   <void property="server">
+    <string>RPC/SRV1/CALLNAT</string>
+   </void>
+   <void property="userID">
+    <string>SAGEW</string>
+   </void>
+  </void>
+  <void property="input">
+   <void method="add">
+    <object class="com.softwareag.naturalone.gen.testing.eclipse.external.ui.editors.unittester.natural.model.TestField" id="TestField0">
+     <void id="booleanArray0" property="VDimensions"/>
+     <void property="VDimensions">
+      <object idref="booleanArray0"/>
+     </void>
+     <void id="intArray0" property="actualDimensions"/>
+     <void property="actualDimensions">
+      <object idref="intArray0"/>
+     </void>
+     <void property="fieldLength">
+      <int>20</int>
+     </void>
+     <void property="fieldType">
+      <char>A</char>
+     </void>
+     <void property="fullName">
+      <string>#START-NAME</string>
+     </void>
+     <void property="index">
+      <array class="int" length="0"/>
+     </void>
+     <void property="value">
+      <string>ADKINSON</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.softwareag.naturalone.gen.testing.eclipse.external.ui.editors.unittester.natural.model.TestField" id="TestField1">
+     <void id="booleanArray1" property="VDimensions"/>
+     <void property="VDimensions">
+      <object idref="booleanArray1"/>
+     </void>
+     <void id="intArray1" property="actualDimensions"/>
+     <void property="actualDimensions">
+      <object idref="intArray1"/>
+     </void>
+     <void property="fieldLength">
+      <int>20</int>
+     </void>
+     <void property="fieldType">
+      <char>A</char>
+     </void>
+     <void property="fullName">
+      <string>#END-NAME</string>
+     </void>
+     <void property="index">
+      <array class="int" length="0"/>
+     </void>
+     <void property="value">
+      <string>JONES</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="naturalSourcePath">
+   <string>SAGEW/GET-EMP</string>
+  </void>
+  <void property="validators">
+   <void method="add">
+    <object class="com.softwareag.naturalone.gen.testing.eclipse.external.ui.editors.unittester.validators.StringValidator">
+     <void property="VDimensions">
+      <array class="boolean" length="1"/>
+     </void>
+     <void property="actualDimensions">
+      <array class="int" length="1">
+       <void index="0">
+        <int>50</int>
+       </void>
+      </array>
+     </void>
+     <void property="fieldLength">
+      <int>20</int>
+     </void>
+     <void property="fieldType">
+      <char>A</char>
+     </void>
+     <void property="fullName">
+      <string>#NAME</string>
+     </void>
+     <void property="index">
+      <array class="int" length="0"/>
+     </void>
+     <void property="value">
+      <string>ADKINSON</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

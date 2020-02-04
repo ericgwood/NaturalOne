@@ -21,7 +21,7 @@ IF "%java%"=="" (
 )
 
 IF "%eclipseworkspace%"=="" (
-  set eclipseworkspace=C:/Users/sagew/EricWorkspace03
+  set eclipseworkspace=C:\Temp\JenkinsWorkspace
 )
 
 IF "%buildfile%"=="" (

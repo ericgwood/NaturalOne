@@ -25,7 +25,7 @@ IF "%eclipseworkspace%"=="" (
 )
 
 IF "%buildfile%"=="" (
-  set buildfile=C:\Users\sagew\git\NaturalOneUnittest\SAGEW-test\Testing-Suites\build.xml
+  set buildfile=C:\Users\sagew\git\NaturalOneUnittest\SAGEW-test\build.xml
 )
 
 :: The Ant listener can be used when a Junit-like report format of the Testing output is required.
