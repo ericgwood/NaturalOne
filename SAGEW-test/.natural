@@ -65,6 +65,10 @@
                 <LibrarySteplibNSV>SYSTEM</LibrarySteplibNSV>
                 <LibrarySteplibExtensions>1;SYSTEM[-1,-1];</LibrarySteplibExtensions>
             </LibrarySteplib>
+            <LibrarySteplib>
+                <LibrarySteplibName>SYSTEM</LibrarySteplibName>
+                <LibrarySteplibNSV>SYSTEM</LibrarySteplibNSV>
+            </LibrarySteplib>
         </LibrariesSteplibs>
         <privateMode>false</privateMode>
         <Fuser>(137,21)</Fuser>
@@ -84,6 +88,21 @@
             <SpacingFactor>1</SpacingFactor>
             <StructuredMode>false</StructuredMode>
             <LibraryPrivateMode>true</LibraryPrivateMode>
+        </NatsecLibrary>
+        <NatsecLibrary>
+            <NatsecLibraryName>SYSTEM</NatsecLibraryName>
+            <TerminalCommandChar>%</TerminalCommandChar>
+            <TerminalCommandCharSwitch>true</TerminalCommandCharSwitch>
+            <DecimalCharacter>.</DecimalCharacter>
+            <FormatSpecify>false</FormatSpecify>
+            <InputAssignCharacter>=</InputAssignCharacter>
+            <InputDelimiterCharacter>,</InputDelimiterCharacter>
+            <LineSize>80</LineSize>
+            <ProcessingLoopLimit>99999999</ProcessingLoopLimit>
+            <PageSize>23</PageSize>
+            <SpacingFactor>1</SpacingFactor>
+            <StructuredMode>false</StructuredMode>
+            <LibraryPrivateMode>false</LibraryPrivateMode>
         </NatsecLibrary>
     </NatsecRuntimeProfileLibrary>
     <AivVariables/>

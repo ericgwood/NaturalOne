@@ -48,7 +48,7 @@
     <!-- Property logic: DO NOT EDIT NOR REMOVE -->
     <!-- ### ANT_DEPLOY_PROPERTIES_START ### -->
     <property environment="env"/>
-    <property name="natural.ant.server.parameters" value="cficu=on cp=ato auto=on slock=pre etid= &#039; &#039;" />
+    <property name="natural.ant.server.parameters" value="cficu=on cp=auto auto=on slock=pre etid= &#039; &#039;" />
     <property name="natural.ant.repository.password" value="" />
     <property name="natural.ant.project.password.encryption" value="YES" />
     <property name="natural.ant.deploy.create.sysobjh" value="NO" />
@@ -72,7 +72,7 @@
     <property name="natural.ant.deploy.upload" value="YES" />
     <property name="natural.ant.deploy.scratch" value="NO" />
     <property name="natural.ant.repository.type" value="SVN" />
-    <property name="natural.ant.server.port" value="7310" />
+    <property name="natural.ant.server.port" value="7319" />
     <property name="natural.ant.project.name" value="SAGEW-test" />
     <property name="natural.ant.server.secured.environment" value="YES" />
     <property name="natural.ant.project.rootdir" value="..\&quot; /&gt;" />
