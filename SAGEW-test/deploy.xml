@@ -59,7 +59,7 @@
     <property name="natural.ant.deploy.retain.unchanged.sources" value="NO" />
     <property name="natural.ant.deploy.full" value="NO" />
     <property name="natural.ant.generate.old.data.area.format" value="NO" />
-    <property name="natural.ant.library.steplib.nsv" value="SAGEW;SYSTEM!;!" />
+    <property name="natural.ant.library.steplib.nsv" value="SYSTEM;SYSTEM!;!SAGEW;SYSTEM!;!" />
     <property name="natural.ant.source.all.types" value="YES" />
     <property name="natural.ant.deploy.upload.sysobjh" value="NO" />
     <property name="natural.ant.repository.url" value="" />
@@ -75,7 +75,7 @@
     <property name="natural.ant.server.port" value="7319" />
     <property name="natural.ant.project.name" value="SAGEW-test" />
     <property name="natural.ant.server.secured.environment" value="YES" />
-    <property name="natural.ant.project.rootdir" value="..\" />
+    <property name="natural.ant.project.rootdir" value=".." />
     <property name="natural.ant.deploy.stow" value="YES" />
     <property name="natural.ant.deploy.history.log.level" value="0" />
     <property name="natural.ant.deploy.upload.sysobjh.library" value="WORKPLAN" />
@@ -84,14 +84,14 @@
     <property name="natural.ant.deploy.delete" value="NO" />
     <property name="natural.ant.server.hostname" value="daea" />
     <property name="natural.ant.short.log" value="NO" />
-    <property name="natural.ant.mapping.string" value="SAGEW=SAGEW;" />
-    <property name="natural.ant.failonerror" value="NO" />
+    <property name="natural.ant.mapping.string" value="SAGEW=SAGEW;SYSTEM=SYSTEM;" />
+    <property name="natural.ant.failonerror" value="YES" />
     <property name="natural.ant.project.steplibs" value="0;" />
     <property name="natural.ant.deploy.catalog.retries" value="1" />
     <property name="natural.ant.script.one.version" value="9.1.2.0" />
     <property name="natural.ant.repository.module" value="SAGEW-test" />
     <property name="natural.ant.deploy.catalog" value="NO" />
-    <property name="natural.ant.library.steplibs" value="SAGEW;1;SYSTEM;!;!" />
+    <property name="natural.ant.library.steplibs" value="SYSTEM;0;!;!SAGEW;1;SYSTEM;!;!" />
     <property name="natural.ant.server.environment" value="daea-7319" />
     <property name="natural.ant.server.usessl" value="NO" />
     <property name="natural.ant.server.password" value="mdRQ5nGWxpU=" />
