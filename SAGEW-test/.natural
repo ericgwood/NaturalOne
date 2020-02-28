@@ -70,7 +70,7 @@
                 <LibrarySteplibNSV>SYSTEM</LibrarySteplibNSV>
             </LibrarySteplib>
         </LibrariesSteplibs>
-        <privateMode>false</privateMode>
+        <privateMode>true</privateMode>
         <Fuser>(137,21)</Fuser>
     </EnvironmentProperties>
     <NatsecRuntimeProfileLibrary>
